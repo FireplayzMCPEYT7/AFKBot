@@ -5,8 +5,8 @@
 	},
 
 	"server":{
-		"address":"127.0.0.1",
-		"port":25565
+		"address":"168.119.13.250",
+		"port":26093
 	},
 
 	"keyword":{
